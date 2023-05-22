@@ -1,6 +1,6 @@
 if (process.env.NODE_ENV == "production") {
 
-    module.exports = {mongoURI: "mongodb://mongo:WFZsT9K2BqFPpVAD0eiR@containers-us-west-52.railway.app:7297"}
+    module.exports = {mongoURI: "mongodb://mongo:Y9NHV4p3U1epBr80RBN3@containers-us-west-130.railway.app:7166"}
 
 } else {
 
