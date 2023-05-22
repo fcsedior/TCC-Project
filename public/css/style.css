@@ -2999,6 +2999,10 @@ text_feed input:focus {
         width: 200px;
     }
 
+    .profile {
+        width: 500px;
+    }
+
 }
 
 @media (max-width: 500px) {
